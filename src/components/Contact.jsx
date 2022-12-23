@@ -32,7 +32,11 @@ function Contact() {
                     />
                     <button
                         type="button"
+<<<<<<< HEAD
                         className="text-center inline-block px-8 py-3 w-max text-base font-medium rounded-md text-white bg-gradient-to-r from-blue-700 to-gray-600 drop-shadow-md hover:stroke-white"
+=======
+                        className="text-center inline-block px-8 py-3 w-max text-base font-medium rounded-md text-white bg-gradient-to-r from-yellow-500 to-pink-500 drop-shadow-md hover:stroke-white"
+>>>>>>> f7d5c42bef9851efcc48bb0a34a2559d7873ac13
                     >
                         Work With Me
                     </button>
